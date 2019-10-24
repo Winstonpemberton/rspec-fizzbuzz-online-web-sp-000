@@ -7,7 +7,7 @@ def fizzbuzz(input)
   elsif input % 5 == 0
     "Buzz"
   elsif input % 3 == 0
-     "Fizz"
+    "Fizz"
   else
     nil
   end
